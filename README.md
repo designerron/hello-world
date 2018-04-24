@@ -1,2 +1,3 @@
 # hello-world
-first test repository
+First Test Repository<br>
+This is a very intereting and understandable application.  Liking this so far.
